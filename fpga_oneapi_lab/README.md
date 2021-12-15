@@ -18,5 +18,6 @@ $ `git clone https://github.com/intel/fpga-training`
 ![Browse to the lab directory](readme_pics/browse_to_lab.png)
 
 7. Double-click the fpga_dev_flow.ipynb file in the file browser pane to launch the Jupyter Notebook for the lab, as shown below. Work the Jupyter Notebook.
+
 ![Launch Notebook](readme_pics/launch_notebook.png)
 
