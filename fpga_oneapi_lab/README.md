@@ -11,4 +11,5 @@
 ![Launch Terminal](readme_pics/launch_terminal.png)
 
 5. At the prompt, clone this repository.
+
 $ `git clone https://github.com/intel/fpga-training`
