@@ -5,7 +5,7 @@
 2. Once you have an Intel DevCloud account, go to the [Get Started page](https://devcloud.intel.com/oneapi/get_started/) and scroll to the bottom. Click on the "Sign In to Connect" button shown below that is beneath the "Connect with Jupyter* Notebook" heading.
 ![Launch Jupyter](readme_pics/start_jupyter.png)
 
-3. You may see a screen indicating you are waiting for the kernel for Jupyter to start up. If you see this screen for more than a few minutes, refresh the browser page.
+3. You may see a screen indicating you are waiting for the kernel for Jupyter to start up. If you see this screen for more than a few minutes, go back to the [Get Started page](https://devcloud.intel.com/oneapi/get_started/) and launch JupyterLab again from the bottom of that page.
 
 4. Once JupyterLab has launched, you will see menu options at the top. From the menu, select File -> New -> Terminal, as shown below.
 ![Launch Terminal](readme_pics/launch_terminal.png)
