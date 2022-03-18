@@ -12,7 +12,7 @@
 
 5. At the prompt, clone this repository.
 
-$ `git clone https://github.com/intel/fpga-training`
+|  $ `git clone https://github.com/intel/fpga-training`
 
 6. On the pane to the left in JupyterLab, browse to the ~/fpga-training/fpga_oneapi_lab/ directory, as shown below.
 ![Browse to the lab directory](readme_pics/browse_to_lab.png)
