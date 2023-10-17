@@ -4,6 +4,7 @@
 // SPDX-License-Identifier: MIT
 // =============================================================
 
+//#include <sycl/sycl.hpp> new header file
 #include <vector>
 #include <CL/sycl.hpp>
 #include <sycl/ext/intel/fpga_extensions.hpp>
