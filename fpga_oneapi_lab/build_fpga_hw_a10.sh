@@ -6,3 +6,4 @@ cp -pR bin-original bin
 echo "Got here"
 dpcpp -fintelfpga ./lab/hough_transform_local_mem.cpp -Xshardware -Xsboard=/opt/intel/oneapi/intel_a10gx_pac:pac_a10 -Xsprofile -o ./bin/hough_transform_local_mem.fpga
 echo "Got here2"
+echo "Got here3"
